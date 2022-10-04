@@ -47,7 +47,6 @@ library
       HWThree.Golf
       HWTwo.Log
       HWTwo.LogAnalysis
-      Lib
   other-modules:
       Paths_cis194
   hs-source-dirs:
